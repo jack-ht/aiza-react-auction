@@ -3,11 +3,7 @@
 ## Environment
 * NodeJS version >= `v14.17.5`
 
-## Install  
+## Installation  
 ```
 yarn add @htsoft/aiza-react-auction
-```  
-Or  
-```
-npm i @htsoft/aiza-react-auction
-```  
+```   
