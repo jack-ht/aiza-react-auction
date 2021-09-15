@@ -1,6 +1,6 @@
 {
   "name": "@htsoft/aiza-react-auction",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "ReactJS components for NFT auctions",
   "main": "dist/index.js",
   "typings": "dist/index.d.ts",
